@@ -1,29 +1,21 @@
-# FS22_PlaceFencesAnywhere
-🚜 Farming Simulator 22 mod to place fences (nearly) everywhere!
+# FS25_PlaceFencesAnywhere
+🚜 Farming Simulator 25 mod to place fences (nearly) everywhere!
 
 ### Download
-ModHub: https://farming-simulator.com/mod.php?mod_id=266077
+ModHub: (pending)
 
 ### Description
-Have you every wanted to place fences...\
+Have you ever wanted to place fences...\
 ... close to map objects,\
 ... close to placeables or other objects,\
-... on steep terrain,\
+... close to other fences,\
 ... somewhere the game just does not allow you to?
 
 This mod disables many restrictions on fence-placing and gives you more freedom designing your dream farm.
 
-These restrictions are disabled by using this mod:
-- "Collides with another item"
-- "Distance too short"
-- "Cannot be placed here"
-- "Terrain too steep"
-- "Corner angle too large"
+Error messages such as "Area is restricted" and "Collides with another item" will be disabled by this mod. All the fence constructions in the screenshots would not be possible in any way without this mod.
 
 You are still required to have access to the farmland you want to place the fence on. This way, you can safely use this mod in a multiplayer game!
-
-### How does it work?
-Take a look at the comment in the main file [PlaceFencesAnywhere.lua](https://github.com/luca1197/FS22_PlaceFencesAnywhere/blob/main/FS22_PlaceFencesAnywhere/PlaceFencesAnywhere.lua).
 
 ### Credits
 Fence icon created by Creative Stall Premium - [Flaticon](https://www.flaticon.com/)\
