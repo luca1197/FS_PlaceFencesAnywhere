@@ -1,5 +1,6 @@
 # FS25_PlaceFencesAnywhere
-🚜 Farming Simulator 25 mod to place fences (nearly) everywhere!
+🚜 Farming Simulator 25 mod to place fences (nearly) everywhere!\
+<sub>Farming Simulator 22 version: https://github.com/luca1197/FS_PlaceFencesAnywhere/tree/fs22</sub>
 
 ### Download
 ModHub: (pending)
