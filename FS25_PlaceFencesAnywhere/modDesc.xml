@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="94">
+    <author>luca1197</author>
+    <version>1.0.0.0</version>
+    <iconFilename>icon_placeFencesAnywhere.dds</iconFilename>
+
+    <title>
+        <en>Place Fences Anywhere</en>
+        <de>Zäune Überall Platzieren</de>
+    </title>
+
+    <description>
+        <en><![CDATA[Have you ever wanted to place fences...
+... close to map objects,
+... close to placeables or other objects,
+... close to other fences,
+... somewhere the game just does not allow you to?
+
+This mod disables many restrictions on fence-placing and gives you more freedom designing your dream farm.
+
+Error messages such as "Area is restricted" and "Collides with another item" will be disabled by this mod. All the fence constructions in the screenshots would not be possible in any way without this mod.
+
+You are still required to have access to the farmland you want to place the fence on. This way, you can safely use this mod in a multiplayer game!
+
+GitHub: https://github.com/luca1197/FS_PlaceFencesAnywhere]]></en>
+        <de><![CDATA[Hast du mal probiert, Zäune...
+... nah an Map-Objekten,
+... nah an platzierbaren oder anderen Objekten,
+... nah an anderen Zäunen,
+... irgendwo, wo es das Spiel einfach nicht erlaubt,
+zu platzieren?
+
+Diese Mod deaktiviert viele Einschränkungen beim Platzieren von Zäunen und gibt dir damit umso mehr Freiheiten, den Hof deiner Träume zu errichten!
+
+Fehlermeldungen wie zum Beispiel "Gesperrter Bereich" und "Kollision mit einem anderen Objekt" werden durch diese Mod deaktiviert. Alle Zaun-Konstruktionen in den Screenshots wären ohne diese Mod in keiner Weise möglich.
+
+Es ist weiterhin notwendig, dass man auf das Land, auf dem der Zaun platziert werden soll, Zugriff hat. Dadurch kann diese Mod sicher im Mehrspieler verwendet werden.
+
+GitHub: https://github.com/luca1197/FS_PlaceFencesAnywhere]]></de>
+    </description>
+
+    <multiplayer supported="true"/>
+
+    <extraSourceFiles>
+        <sourceFile filename="PlaceFencesAnywhere.lua"/>
+    </extraSourceFiles>
+</modDesc>
