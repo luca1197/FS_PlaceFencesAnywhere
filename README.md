@@ -3,7 +3,7 @@
 <sub>Farming Simulator 22 version: https://github.com/luca1197/FS_PlaceFencesAnywhere/tree/fs22</sub>
 
 ### Download
-ModHub: https://www.farming-simulator.com/mod.php?mod_id=310518&title=fs2025\
+ModHub: https://www.farming-simulator.com/mod.php?mod_id=310518&title=fs2025<br/>
 <sub>Automatic GitHub releases will be implemented later.</sub>
 
 ### Description
