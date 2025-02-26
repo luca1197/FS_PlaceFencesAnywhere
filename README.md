@@ -3,7 +3,8 @@
 <sub>Farming Simulator 22 version: https://github.com/luca1197/FS_PlaceFencesAnywhere/tree/fs22</sub>
 
 ### Download
-ModHub: (pending)
+ModHub: https://www.farming-simulator.com/mod.php?mod_id=310518&title=fs2025\
+<sub>Automatic GitHub releases will be implemented later.</sub>
 
 ### Description
 Have you ever wanted to place fences...\
